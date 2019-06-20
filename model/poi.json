@@ -1,0 +1,150 @@
+{
+    "status": 0,
+    "message": "ok",
+    "results": [
+        {
+            "name": "蜀大侠火锅(春熙店)",
+            "location": {
+                "lat": 30.659874,
+                "lng": 104.082398
+            },
+            "address": "锦江区上东大街6号春南商场2楼(西南书城)",
+            "province": "四川省",
+            "city": "成都市",
+            "area": "锦江区",
+            "street_id": "0662e03394b038ddb45f1ef1",
+            "telephone": "(028)87666679",
+            "detail": 1,
+            "uid": "0662e03394b038ddb45f1ef1"
+        },
+        {
+            "name": "卞氏菜根香(旗舰店)",
+            "location": {
+                "lat": 30.623081,
+                "lng": 104.077896
+            },
+            "address": "航空路7号华尔兹广场2楼(近新希望路)",
+            "province": "四川省",
+            "city": "成都市",
+            "area": "武侯区",
+            "street_id": "1020060f197694bf1994c697",
+            "detail": 1,
+            "uid": "1020060f197694bf1994c697"
+        },
+        {
+            "name": "蜀大侠(西玉龙店)",
+            "location": {
+                "lat": 30.673373,
+                "lng": 104.074999
+            },
+            "address": "成都市青羊区西玉龙街18号",
+            "province": "四川省",
+            "city": "成都市",
+            "area": "青羊区",
+            "detail": 1,
+            "uid": "5bcbe2d5945326d030169b41"
+        },
+        {
+            "name": "蜀九香火锅(南府店)",
+            "location": {
+                "lat": 30.654327,
+                "lng": 104.076699
+            },
+            "address": "锦江区南府街53号",
+            "province": "四川省",
+            "city": "成都市",
+            "area": "锦江区",
+            "street_id": "9fbfeef272450d5cede4a54f",
+            "detail": 1,
+            "uid": "9fbfeef272450d5cede4a54f"
+        },
+        {
+            "name": "大口巴肥肠血旺",
+            "location": {
+                "lat": 30.585907,
+                "lng": 103.530319
+            },
+            "address": "晋原镇长春西路60号",
+            "province": "四川省",
+            "city": "成都市",
+            "area": "大邑县",
+            "telephone": "13880662766",
+            "detail": 1,
+            "uid": "e889a7442889f5ac8605bf59"
+        },
+        {
+            "name": "卞氏菜根香(双福二路店)",
+            "location": {
+                "lat": 30.650986,
+                "lng": 104.125016
+            },
+            "address": "双福二路39号20栋1层1号",
+            "province": "四川省",
+            "city": "成都市",
+            "area": "成华区",
+            "street_id": "5c39add5ff051a15e3110321",
+            "telephone": "(028)61333777",
+            "detail": 1,
+            "uid": "5c39add5ff051a15e3110321"
+        },
+        {
+            "name": "小龙坎老火锅(华阳店)",
+            "location": {
+                "lat": 30.511579,
+                "lng": 104.068748
+            },
+            "address": "成都市双流区广都上街171",
+            "province": "四川省",
+            "city": "成都市",
+            "area": "双流区",
+            "street_id": "f10312940817ec21eb1e9707",
+            "detail": 1,
+            "uid": "f10312940817ec21eb1e9707"
+        },
+        {
+            "name": "锦城印象(高新店)",
+            "location": {
+                "lat": 30.59628,
+                "lng": 104.077779
+            },
+            "address": "成都市武侯区天顺路88号",
+            "province": "四川省",
+            "city": "成都市",
+            "area": "武侯区",
+            "street_id": "ff2ce2719c93d51e2902e11e",
+            "telephone": "(028)65879992",
+            "detail": 1,
+            "uid": "ff2ce2719c93d51e2902e11e"
+        },
+        {
+            "name": "情妹妹干锅锅(西安中路店)",
+            "location": {
+                "lat": 30.673985,
+                "lng": 104.054711
+            },
+            "address": "西安中路41号",
+            "province": "四川省",
+            "city": "成都市",
+            "area": "金牛区",
+            "street_id": "7fd7231110a24c865cbe860b",
+            "telephone": "(028)89993885",
+            "detail": 1,
+            "uid": "7fd7231110a24c865cbe860b"
+        },
+        {
+            "name": "温鸭子(锦华店)",
+            "location": {
+                "lat": 30.618474,
+                "lng": 104.107412
+            },
+            "address": "四川省成都市锦江区锦沙路8号",
+            "province": "四川省",
+            "city": "成都市",
+            "area": "锦江区",
+            "street_id": "befdb292773b78f88715416a",
+            "telephone": "(028)85911688,(028)85952558",
+            "detail": 1,
+            "uid": "befdb292773b78f88715416a"
+        }
+    ]
+}

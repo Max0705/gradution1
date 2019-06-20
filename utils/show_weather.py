@@ -1,0 +1,47 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# pd.set_option('display.max_rows', 2000)
+# data = pd.DataFrame(columns=['month_day', 'week', 'hour', 'temperature', 'humidity', 'wind_grade',
+#                              'grid_max_longitude',
+#                              'grid_min_longitude',
+#                              'grid_max_latitude', 'grid_min_latitude', 'grid_num', 'climate_sunny', 'climate_rain',
+#                              'climate_smallrain',
+#                              'climate_overcast', 'climate_cloudy', 'climate_overcasttocluody',
+#                              'climate_overcasttosmallrain',
+#                              'climate_overcasttosunny', 'climate_cloudytosunny', 'climate_cloudytoovercast',
+#                              'climate_cloudytosmallrain',
+#                              'climate_midraintosmallrain', 'climate_smallraintosunny',
+#                              'holiday', 'food', 'hotel', 'transport', 'life', 'tourism', 'entertainment', 'sport',
+#                              'education', 'culture',
+#                              'hospital', 'shopping', 'car', 'finance', 'house', 'company', 'government', 'entrance',
+#                              'nature',
+#                              'counts'])
+# for i in range(1, 31):
+#     print(i)
+#     if i >= 10:
+#         day = str(i)
+#     else:
+#         day = '0' + str(i)
+#     df = pd.read_csv('../new_data/data/data_count_poi_clean_na/order_' + day, index_col=[0])
+#     data = data.append(df)
+#
+# data = data.reset_index(drop=True)
+#
+# # temp = data.groupby(['grid_num'])['counts'].sum().rename('sdf')
+#
+# temp = data[data.grid_num==5262].groupby(['month_day', 'hour'])['counts'].sum().reset_index(drop=True).rename('sdf')
+# # temp = temp.sort_values()
+# print(temp)
+#
+# x = []
+# for i in range(0, 24):
+#     w = int(i / 24) + 1
+#     d = i % 24
+#     x.append(i)
+#
+# print(x)
+data = [15732, 18234, 12300, 14233]
+x = ['sunny', 'rainy', 'cloudy', 'overcast']
+plt.bar(x, data, width=0.6)
+plt.show()

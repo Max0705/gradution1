@@ -1,0 +1,14 @@
+﻿服务器: mocom.xmu.edu.cn 端口: 22
+数据所在路径: /home/mocom_vr/chy/data_preprocessing/gpx_data
+代码所在路径: /home/mocom_vr/mdj/基于轨迹生成厦门联通路网
+
+(1)graph.txt
+DIMACS格式
+点数：56883
+边数：62654
+格式：
+n 点的id lon经度 lat纬度
+e 点1 点2 长度 `说明(此份数据无osm属性，因为不基于OSM文件生成，全为"")`
+
+(2)traj.txt
+每一行是一条轨迹，每个数字是点的id
